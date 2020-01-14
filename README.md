@@ -16,15 +16,18 @@ https://pan.baidu.com/s/12RYCDc1Xhi6dO8R2avOiWQ
 
 ## Demo程序
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| 设备按键  | 使用方式  | 功能 |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
+| 鼠标左键       | 点击对象         | 选定对象 |
+| col 2 is      | 点击空白处        |   取消已选中对象 |
+| zebra stripes | are neat        |    $1 |
+| zebra stripes | are neat        |    $1 |
+| zebra stripes | are neat        |    $1 |
+| zebra stripes | are neat        |    $1 |
+| zebra stripes | are neat        |    $1 |
 | zebra stripes | are neat        |    $1 |
 
-设备按键	    使用方式	    功能
-鼠标左键	点击对象	选定对象
-	点击空白处	取消已选中对象
+
 键盘左Shift+鼠标左键	点击并拖拽对象	移动选定对象
 键盘左Alt+鼠标左键	点击并拖拽对象	转动选定对象
 鼠标右键	点击并拖拽空白处	转动视角
