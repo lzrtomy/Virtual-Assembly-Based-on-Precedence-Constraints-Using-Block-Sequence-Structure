@@ -1,4 +1,4 @@
-# Virtual-Assembly-Based-on-Precedence-Constraints-
+# Virtual-Assembly-Based-on-Precedence-Constraints-Using-Block-Sequence-Structure
 受到优先约束的虚拟装配/拆卸，基于区块序列结构实现
 
 # 介绍与视频演示
