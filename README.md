@@ -15,7 +15,7 @@ https://pan.baidu.com/s/12RYCDc1Xhi6dO8R2avOiWQ
 
 # Demo程序
 
-# 简介
+## 简介
 
 （1）将压缩包下载解压后运行VirtualAssembly.exe
 
@@ -23,7 +23,7 @@ https://pan.baidu.com/s/12RYCDc1Xhi6dO8R2avOiWQ
 
 （3）由于时间的限制，UI界面多数功能预留了按钮，但未进行开发。
 
-# 操作方式
+## 操作方式
 
 | 设备按键  | 使用方式  | 功能 |
 | :--------------------- |:---------------:| :---------------|
