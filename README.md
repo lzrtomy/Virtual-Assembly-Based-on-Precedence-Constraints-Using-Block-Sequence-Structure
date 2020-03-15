@@ -5,7 +5,7 @@
 
 https://pan.baidu.com/s/12RYCDc1Xhi6dO8R2avOiWQ
 
-链接内容为本人在智能制造专项中负责开发的一款面向Unity3D引擎的SDK（Block Sequence for Unity）的演示视频。该SDK使用C#语言编写，提供参数输入界面，采用的技术和原理为本人已发表的两篇论文：
+链接内容为本人在智能制造专项中负责开发的一款面向Unity3D引擎的SDK（Block Sequence for Unity）的演示视频。该SDK使用C#语言编写，提供参数输入界面，采用的技术和原理为本人（第一作者）发表的两篇论文：
 
 （1）Li Z, Wang J, Anwar M S, et al. An efficient method for generating assembly precedence constraints on 3D models based on a block sequence structure[J]. Computer-Aided Design, 2020, 118: 102773.
 
@@ -19,7 +19,7 @@ https://pan.baidu.com/s/12RYCDc1Xhi6dO8R2avOiWQ
 
 （1）将压缩包下载解压后运行VirtualAssembly.exe
 
-（2）使用Photon引擎进行了网络同步，目前可以多人在线观察主客户用户端进行拆装演示
+（2）使用Photon引擎进行了网络同步，目前可以多人在线观察主客户端进行拆装演示
 
 （3）由于时间的限制，UI界面多数功能预留了按钮，但未进行开发。
 
